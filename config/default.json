@@ -1,0 +1,15 @@
+{
+  "reminders": [
+    {
+      "cron": "*/20 * * * *",
+      "title": "Quick Break",
+      "message": "Stand up, stretch your legs and look outside for a minute."
+    },
+    {
+      "cron": "0 */1 * * *",
+      "title": "Long Break",
+      "message": "Take a longer break, walk around, and hydrate yourself."
+    }
+  ],
+  "useSound": false
+}

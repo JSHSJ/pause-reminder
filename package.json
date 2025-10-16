@@ -1,0 +1,23 @@
+{
+  "name": "pause-reminder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.18.3",
+  "dependencies": {
+    "config": "^4.1.1",
+    "cronstrue": "^3.3.0",
+    "node-cron": "^4.2.1",
+    "node-notifier": "^10.0.1"
+  },
+  "devDependencies": {
+    "@types/node-notifier": "^8.0.5"
+  }
+}
