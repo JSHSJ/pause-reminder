@@ -33,3 +33,7 @@ This is the default:
 pnpm install
 node index.js
 ```
+
+### Credits
+
+Icon made by [uiicons](https://www.uicons.com)
