@@ -36,4 +36,4 @@ node index.js
 
 ### Credits
 
-Icon made by [uiicons](https://www.uicons.com)
+Icon made by [UICONS](https://www.uicons.com)
