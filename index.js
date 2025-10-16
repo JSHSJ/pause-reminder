@@ -40,7 +40,7 @@ reminders.forEach(({ cron: cronTime, title, message }) => {
       `Reminder configured for "${title}": ${description}`
     );
     cron.schedule(cronTime, () => {
-      notifier.notify({ title, message });
+       sendNotification(title, message);
     });
   } else {
     console.warn(

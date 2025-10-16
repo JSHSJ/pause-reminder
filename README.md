@@ -34,6 +34,10 @@ pnpm install
 node index.js
 ```
 
+### Known issues
+
+Unfortunately, the icon does not work on modern macOS versions. If you know a fix, please open a PR.
+
 ### Credits
 
 Icon made by [UICONS](https://www.uicons.com)
